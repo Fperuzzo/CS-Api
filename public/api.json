@@ -1,0 +1,709 @@
+[
+  {
+    "id": "ak47_1",
+    "nome": "Inheritance",
+    "imagem_url": "https://cdn.csgoskins.gg/public/uih/items/aHR0cHM6Ly9jZG4uY3Nnb3NraW5zLmdnL3B1YmxpYy9pbWFnZXMvYnVja2V0cy9lY29uL2RlZmF1bHRfZ2VuZXJhdGVkL3dlYXBvbl9hazQ3X2FrX3BvcmNlbGFpbl9saWdodC5kYzRmNzZmYzM2NTE3NWU0YWM0MmQxNGVhODQ3MmQ3NmNmM2ZhNjYzLnBuZw--/auto/auto/85/notrim/66286698568f34224b86256f3790dbad.webp",
+    "raridade": "Covert",
+    "caixa_de_drop": "Snakebite Case"
+  },
+  {
+    "id": "ak47_2",
+    "nome": "Asiimov",
+    "imagem_url": "https://cdn.csgoskins.gg/public/uih/items/aHR0cHM6Ly9jZG4uY3Nnb3NraW5zLmdnL3B1YmxpYy9pbWFnZXMvYnVja2V0cy9lY29uL2RlZmF1bHRfZ2VuZXJhdGVkL3dlYXBvbl9hazQ3X2N1X2FrNDdfYXNpaW1vdl9saWdodC4xZWMwMjRhOWVkMjE0NzE4MjUzOTA3NjM4MzFmZGNkNDE3NTA1Y2MwLnBuZw--/auto/auto/85/notrim/500cc78c57df4c739bccf978b38d8d83.webp",
+    "raridade": "Covert",
+    "caixa_de_drop": "Danger Zone Case"
+  },
+  {
+    "id": "ak47_3",
+    "nome": "Ice Coaled",
+    "imagem_url": "https://cdn.csgoskins.gg/public/uih/items/aHR0cHM6Ly9jZG4uY3Nnb3NraW5zLmdnL3B1YmxpYy9pbWFnZXMvYnVja2V0cy9lY29uL2RlZmF1bHRfZ2VuZXJhdGVkL3dlYXBvbl9hazQ3X2N1X2FrNDdfY29ndGhpbmdzX2xpZ2h0LmVjMGVkODkzYzJkMGFlMmY5MTdlZjc1ZTBjYjc3MmM1MGMxZmQwMzIucG5n/auto/auto/85/notrim/9a238d8558503981eec09d473aa87da1.webp",
+    "raridade": "Classified",
+    "caixa_de_drop": "Recoil Case"
+  },
+  {
+    "id": "ak47_4",
+    "nome": "Slate",
+    "imagem_url": "https://cdn.csgoskins.gg/public/uih/items/aHR0cHM6Ly9jZG4uY3Nnb3NraW5zLmdnL3B1YmxpYy9pbWFnZXMvYnVja2V0cy9lY29uL2RlZmF1bHRfZ2VuZXJhdGVkL3dlYXBvbl9hazQ3X2dzX2FrNDdfcHJvZmVzc2lvbmFsX2xpZ2h0LjI5NmJhOGIxNTEwZGE0OWFlZjU1MWY2ZTNlOGVkODBlMjE3ZGE3NDYucG5n/auto/auto/85/notrim/187f28c57969731ba970cf4105fafe5b.webp",
+    "raridade": "Restricted",
+    "caixa_de_drop": "Snakebite Case"
+  },
+  {
+    "id": "ak47_5",
+    "nome": "Nightwish",
+    "imagem_url": "https://cdn.csgoskins.gg/public/uih/items/aHR0cHM6Ly9jZG4uY3Nnb3NraW5zLmdnL3B1YmxpYy9pbWFnZXMvYnVja2V0cy9lY29uL2RlZmF1bHRfZ2VuZXJhdGVkL3dlYXBvbl9hazQ3X2N1X2FrNDdfbmlnaHR3aXNoX2xpZ2h0LjA4YTY1NjE1ZDdjZGYyZjhkNGQ2NTBmOTk5OWZjOTQxNjlmZjg3MjgucG5n/auto/auto/85/notrim/5c08a9a697a566343389a078253f7fe3.webp",
+    "raridade": "Covert",
+    "caixa_de_drop": "Dreams & Nightmares Case"
+  },
+  {
+    "id": "ak47_6",
+    "nome": "The Empress",
+    "imagem_url": "https://cdn.csgoskins.gg/public/uih/items/aHR0cHM6Ly9jZG4uY3Nnb3NraW5zLmdnL3B1YmxpYy9pbWFnZXMvYnVja2V0cy9lY29uL2RlZmF1bHRfZ2VuZXJhdGVkL3dlYXBvbl9hazQ3X2dzX2FrNDdfZW1wcmVzc19saWdodC5kOWVjNzE5M2Y2MmM3ZjIxZTI3MmViMWJhYjFiYjE5ODdmOTlhYmM0LnBuZw--/auto/auto/85/notrim/0e33eda6786bc1b4cfdaf3ad9608c792.webp",
+    "raridade": "Covert",
+    "caixa_de_drop": "Spectrum 2 Case"
+  },
+  {
+    "id": "ak47_7",
+    "nome": "Redline",
+    "imagem_url": "https://cdn.csgoskins.gg/public/uih/items/aHR0cHM6Ly9jZG4uY3Nnb3NraW5zLmdnL3B1YmxpYy9pbWFnZXMvYnVja2V0cy9lY29uL2RlZmF1bHRfZ2VuZXJhdGVkL3dlYXBvbl9hazQ3X2N1X2FrNDdfY29icmFfbGlnaHQuZjQ1OGMxMDVhYjc1ZmM3NGU4ZGVjMTlhZDU4YmJlZTkwNzJhMTE1YS5wbmc-/auto/auto/85/notrim/990225506f8330a8a6e578f385905ecc.webp",
+    "raridade": "Classified",
+    "caixa_de_drop": "Operation Phoenix Weapon Case"
+  },
+  {
+    "id": "ak47_8",
+    "nome": "Head Shot",
+    "imagem_url": "https://cdn.csgoskins.gg/public/uih/items/aHR0cHM6Ly9jZG4uY3Nnb3NraW5zLmdnL3B1YmxpYy9pbWFnZXMvYnVja2V0cy9lY29uL2RlZmF1bHRfZ2VuZXJhdGVkL3dlYXBvbl9hazQ3X2N1X2FrX2hlYWRfc2hvdF9ob2xvX2xpZ2h0LmEzYTY4YWRiMjAxNjcxNGM2MjZiNjUzMzM1NGM0ZDg1YTgyMGNkYmEucG5n/auto/auto/85/notrim/37b8db9354aed5cd03a41c016dc28249.webp",
+    "raridade": "Covert",
+    "caixa_de_drop": "Revolution Case"
+  },
+  {
+    "id": "ak47_9",
+    "nome": "Legion of Anubis",
+    "imagem_url": "https://cdn.csgoskins.gg/public/uih/items/aHR0cHM6Ly9jZG4uY3Nnb3NraW5zLmdnL3B1YmxpYy9pbWFnZXMvYnVja2V0cy9lY29uL2RlZmF1bHRfZ2VuZXJhdGVkL3dlYXBvbl9hazQ3X2N1X2FrNDdfYW51YmlzX2xpZ2h0LjljYmM4OGFlOGQwYWI2NjY2YzA4NTY4YTc3NmE1YzFjODQ4YjdlYzYucG5n/auto/auto/85/notrim/725301d64d2a92b3f0f82c94036b8e50.webp",
+    "raridade": "Covert",
+    "caixa_de_drop": "Fracture Case"
+  },
+  {
+    "id": "ak47_10",
+    "nome": "Bloodsport",
+    "imagem_url": "https://cdn.csgoskins.gg/public/uih/items/aHR0cHM6Ly9jZG4uY3Nnb3NraW5zLmdnL3B1YmxpYy9pbWFnZXMvYnVja2V0cy9lY29uL2RlZmF1bHRfZ2VuZXJhdGVkL3dlYXBvbl9hazQ3X2dzX2FrNDdfYmxvb2RzcG9ydF9saWdodC4zNTY1ZDQ0YTFlZGVhZmIyZjgwNmQxNjExMGM3NTc2ZjE3MDZhN2UzLnBuZw--/auto/auto/85/notrim/55e152bc49c1936ae69ec4a0363267ac.webp",
+    "raridade": "Covert",
+    "caixa_de_drop": "Spectrum Case"
+  },
+  {
+    "id": "ak47_11",
+    "nome": "Neon Revolution",
+    "imagem_url": "https://cdn.csgoskins.gg/public/uih/items/aHR0cHM6Ly9jZG4uY3Nnb3NraW5zLmdnL3B1YmxpYy9pbWFnZXMvYnVja2V0cy9lY29uL2RlZmF1bHRfZ2VuZXJhdGVkL3dlYXBvbl9hazQ3X2N1X2FrNDdfYW5hcmNoeV9saWdodC5kMjFhNGYxNDQ3YTBjMGM3ODQ4YmY4ZTM5OGQ1MGUwOTcwYzBkZTdmLnBuZw--/auto/auto/85/notrim/999cc0ccae568cc864a8a0eed0fcbedf.webp",
+    "raridade": "Covert",
+    "caixa_de_drop": "Gamma 2 Case"
+  },
+  {
+    "id": "ak47_12",
+    "nome": "Neon Rider",
+    "imagem_url": "https://cdn.csgoskins.gg/public/uih/items/aHR0cHM6Ly9jZG4uY3Nnb3NraW5zLmdnL3B1YmxpYy9pbWFnZXMvYnVja2V0cy9lY29uL2RlZmF1bHRfZ2VuZXJhdGVkL3dlYXBvbl9hazQ3X2N1X2FrX25lb25fcmlkZXJfbGlnaHQuMjM0NmY2MGRjODYzZGZmMTJjZWQyYzZiMjk2YWRkNzQwMjQzNjkzMC5wbmc-/auto/auto/85/notrim/e2135140b56e998bfa0cb6efb09ea3c3.webp",
+    "raridade": "Covert",
+    "caixa_de_drop": "Horizon Case"
+  },
+  {
+    "id": "ak47_13",
+    "nome": "Case Hardened",
+    "imagem_url": "https://cdn.csgoskins.gg/public/uih/items/aHR0cHM6Ly9jZG4uY3Nnb3NraW5zLmdnL3B1YmxpYy9pbWFnZXMvYnVja2V0cy9lY29uL2RlZmF1bHRfZ2VuZXJhdGVkL3dlYXBvbl9hazQ3X2FxX29pbGVkX2xpZ2h0LmNkMjQxYjIzZjRmYWMyNGQ0NTQyODExZDU1YjIzMTJiMDEzYWY5MTkucG5n/auto/auto/85/notrim/6cd121358f75fbc0574f6b80ffd79d28.webp",
+    "raridade": "Classified",
+    "caixa_de_drop": "CS:GO Weapon Case"
+  },
+  {
+    "id": "ak47_14",
+    "nome": "Phantom Disruptor",
+    "imagem_url": "https://cdn.csgoskins.gg/public/uih/items/aHR0cHM6Ly9jZG4uY3Nnb3NraW5zLmdnL3B1YmxpYy9pbWFnZXMvYnVja2V0cy9lY29uL2RlZmF1bHRfZ2VuZXJhdGVkL3dlYXBvbl9hazQ3X2N1X2FrLTQ3X3BoYW50b21fZGlzcnVwdG9yX2xpZ2h0LmRjZGM5ZjZhM2QxNjgxZWFhMjcxOTA2NjJjZTVjNTVmYTVjOTE3NGUucG5n/auto/auto/85/notrim/3ddc7e9c189a7659e95ab439eae7a564.webp",
+    "raridade": "Classified",
+    "caixa_de_drop": "Prisma 2 Case"
+  },
+  {
+    "id": "ak47_15",
+    "nome": "Vulcan",
+    "imagem_url": "https://cdn.csgoskins.gg/public/uih/items/aHR0cHM6Ly9jZG4uY3Nnb3NraW5zLmdnL3B1YmxpYy9pbWFnZXMvYnVja2V0cy9lY29uL2RlZmF1bHRfZ2VuZXJhdGVkL3dlYXBvbl9hazQ3X2N1X2FrNDdfcnViYmVyX2xpZ2h0LjMzNWZlMmZmNWQ4YTYzZmJlZTM5ZjUxYWI5YTg3ZDNkOGY0MWI1OTIucG5n/auto/auto/85/notrim/4f5afa7f620474f8c38368d86a94bc24.webp",
+    "raridade": "Covert",
+    "caixa_de_drop": "Huntsman Weapon Case"
+  },
+  {
+    "id": "ak47_16",
+    "nome": "Frontside Misty",
+    "imagem_url": "https://cdn.csgoskins.gg/public/uih/items/aHR0cHM6Ly9jZG4uY3Nnb3NraW5zLmdnL3B1YmxpYy9pbWFnZXMvYnVja2V0cy9lY29uL2RlZmF1bHRfZ2VuZXJhdGVkL3dlYXBvbl9hazQ3X2N1X2FrNDdfd2ludGVyX3Nwb3J0X2xpZ2h0LmJjOTM2ZTNhMDIyNWQwNzViNThiY2VlMTJiZmQyMmViZTJhNjNiZmUucG5n/auto/auto/85/notrim/bdbfc7f6137f2e8bc41dffcb70622491.webp",
+    "raridade": "Classified",
+    "caixa_de_drop": "Shadow Case"
+  },
+  {
+    "id": "ak47_17",
+    "nome": "Aquamarine Revenge",
+    "imagem_url": "https://cdn.csgoskins.gg/public/uih/items/aHR0cHM6Ly9jZG4uY3Nnb3NraW5zLmdnL3B1YmxpYy9pbWFnZXMvYnVja2V0cy9lY29uL2RlZmF1bHRfZ2VuZXJhdGVkL3dlYXBvbl9hazQ3X2N1X2FrNDdfY291cmFnZV9hbHRfbGlnaHQuZTkyZjcxZTJkNDFmODI3MDRkOTI1NmMwNDc1OTI5NTI0ODAyYTJkMC5wbmc-/auto/auto/85/notrim/624a27c869e036c66218de830fffcab5.webp",
+    "raridade": "Covert",
+    "caixa_de_drop": "Falchion Case"
+  },
+  {
+    "id": "ak47_18",
+    "nome": "Point Disarray",
+    "imagem_url": "https://cdn.csgoskins.gg/public/uih/items/aHR0cHM6Ly9jZG4uY3Nnb3NraW5zLmdnL3B1YmxpYy9pbWFnZXMvYnVja2V0cy9lY29uL2RlZmF1bHRfZ2VuZXJhdGVkL3dlYXBvbl9hazQ3X2N1X2FrNDdfcG9pbnRfZGlzYXJyYXlfbGlnaHQuZWY3MWJhODVlYjZhMGU3N2VkZmMyY2EzNTJlMWY4MWJmYjAzNzhjYi5wbmc-/auto/auto/85/notrim/9c01cfc50e865304e73cdcd5a9d79c61.webp",
+    "raridade": "Classified",
+    "caixa_de_drop": "Revolver Case"
+  },
+  {
+    "id": "ak47_19",
+    "nome": "Elite Build",
+    "imagem_url": "https://cdn.csgoskins.gg/public/uih/items/aHR0cHM6Ly9jZG4uY3Nnb3NraW5zLmdnL3B1YmxpYy9pbWFnZXMvYnVja2V0cy9lY29uL2RlZmF1bHRfZ2VuZXJhdGVkL3dlYXBvbl9hazQ3X2N1X2FrNDdfbWFzdGVyeV9saWdodC44ZDlhOTY5NzhhZDhmYTU2MDc0MzMwMzNkYTc0YmYyODA2YjU5MjYyLnBuZw--/auto/auto/85/notrim/f3c2cc9813d0373590a3b34e9f0fad0e.webp",
+    "raridade": "Mil-Spec Grade",
+    "caixa_de_drop": "Chroma 2 Case"
+  },
+  {
+    "id": "ak47_20",
+    "nome": "Leet Museo",
+    "imagem_url": "https://cdn.csgoskins.gg/public/uih/items/aHR0cHM6Ly9jZG4uY3Nnb3NraW5zLmdnL3B1YmxpYy9pbWFnZXMvYnVja2V0cy9lY29uL2RlZmF1bHRfZ2VuZXJhdGVkL3dlYXBvbl9hazQ3X2dzX2FrNDdfYWJzdHJhY3RfbGlnaHQuMDcxZmVmMGQzMTY0ODc0Y2FiOTJmMzA4YTQ1Y2UzN2VmZGMwNzgwNi5wbmc-/auto/auto/85/notrim/28c84012b80cbc0b1a2f436b2872cdd1.webp",
+    "raridade": "Covert",
+    "caixa_de_drop": "Operation Riptide Case"
+  },
+  {
+    "id": "ak47_21",
+    "nome": "Cartel",
+    "imagem_url": "https://cdn.csgoskins.gg/public/uih/items/aHR0cHM6Ly9jZG4uY3Nnb3NraW5zLmdnL3B1YmxpYy9pbWFnZXMvYnVja2V0cy9lY29uL2RlZmF1bHRfZ2VuZXJhdGVkL3dlYXBvbl9hazQ3X2FxX2FrNDdfY2FydGVsX2xpZ2h0LjZmY2FjYjY4MjVjYjk4NGI1NWVhNTI4YzE0YWVmNzA3MmEyMDYzNGQucG5n/auto/auto/85/notrim/f12e9a21bfc245a33998c9389a1127e9.webp",
+    "raridade": "Classified",
+    "caixa_de_drop": "Chroma Case"
+  },
+  {
+    "id": "ak47_22",
+    "nome": "Fuel Injector",
+    "imagem_url": "https://cdn.csgoskins.gg/public/uih/items/aHR0cHM6Ly9jZG4uY3Nnb3NraW5zLmdnL3B1YmxpYy9pbWFnZXMvYnVja2V0cy9lY29uL2RlZmF1bHRfZ2VuZXJhdGVkL3dlYXBvbl9hazQ3X2dzX2FrNDdfc3VwZXJjaGFyZ2VkX2xpZ2h0LjkwMjczOGFmMjMxNWQ5NDRlZWQ2YTE0MTVjZWRkMmRlZTk1YzJmNGUucG5n/auto/auto/85/notrim/5077c87d9247b946ea1086960b598fdc.webp",
+    "raridade": "Covert",
+    "caixa_de_drop": "Operation Wildfire Case"
+  },
+  {
+    "id": "ak47_23",
+    "nome": "Fire Serpent",
+    "imagem_url": "https://cdn.csgoskins.gg/public/uih/items/aHR0cHM6Ly9jZG4uY3Nnb3NraW5zLmdnL3B1YmxpYy9pbWFnZXMvYnVja2V0cy9lY29uL2RlZmF1bHRfZ2VuZXJhdGVkL3dlYXBvbl9hazQ3X2N1X2ZpcmVzZXJwZW50X2FrNDdfYnJhdm9fbGlnaHQuYzU3YTA4MmRlZjAyNjYyY2ZkYjEzYzU0M2UwZDUwZGZkM2Q2ZGE0ZC5wbmc-/auto/auto/85/notrim/816d04693ab5653bcc656e5bf0562227.webp",
+    "raridade": "Covert",
+    "caixa_de_drop": "Operation Bravo Case"
+  },
+  {
+    "id": "ak47_24",
+    "nome": "Jaguar",
+    "imagem_url": "https://cdn.csgoskins.gg/public/uih/items/aHR0cHM6Ly9jZG4uY3Nnb3NraW5zLmdnL3B1YmxpYy9pbWFnZXMvYnVja2V0cy9lY29uL2RlZmF1bHRfZ2VuZXJhdGVkL3dlYXBvbl9hazQ3X2N1X3BhbnRoZXJfYWs0N19saWdodC5lMGI1Njg1MDcwOGE3YzFlNzI2MTVhODhjNjQ1NTJmNmQ5NmEwMDVhLnBuZw--/auto/auto/85/notrim/27d28d1e26099e18a8cc2adb422435af.webp",
+    "raridade": "Covert",
+    "caixa_de_drop": "eSports 2014 Summer Case"
+  },
+  {
+    "id": "ak47_25",
+    "nome": "Orbit Mk01",
+    "imagem_url": "https://cdn.csgoskins.gg/public/uih/items/aHR0cHM6Ly9jZG4uY3Nnb3NraW5zLmdnL3B1YmxpYy9pbWFnZXMvYnVja2V0cy9lY29uL2RlZmF1bHRfZ2VuZXJhdGVkL3dlYXBvbl9hazQ3X2dzX2FrX2NvbG9ueTAxX3JlZF9saWdodC5kYmIxZWE3YjZiOTViNTA0NDY4OTMwYzBlMzJiZTllOTk0NTg1ODFhLnBuZw--/auto/auto/85/notrim/6e252d2bb5b8bb2c211bc02532e17af7.webp",
+    "raridade": "Restricted",
+    "caixa_de_drop": "Operation Hydra Case"
+  },
+  {
+    "id": "ak47_26",
+    "nome": "Uncharted",
+    "imagem_url": "https://cdn.csgoskins.gg/public/uih/items/aHR0cHM6Ly9jZG4uY3Nnb3NraW5zLmdnL3B1YmxpYy9pbWFnZXMvYnVja2V0cy9lY29uL2RlZmF1bHRfZ2VuZXJhdGVkL3dlYXBvbl9hazQ3X2N1X2FrNDdfYXp0ZWNfbGlnaHQuMGY3MDNlYTllNGFkN2IwMmEwNTU5OGRjMGVjMGQyNjRjZDIzNGY2Ny5wbmc-/auto/auto/85/notrim/1a7c6be8159149e85c4ac678638c042b.webp",
+    "raridade": "Mil-Spec Grade",
+    "caixa_de_drop": "Prisma Case"
+  },
+  {
+    "id": "ak47_27",
+    "nome": "Wasteland Rebel",
+    "imagem_url": "https://cdn.csgoskins.gg/public/uih/items/aHR0cHM6Ly9jZG4uY3Nnb3NraW5zLmdnL3B1YmxpYy9pbWFnZXMvYnVja2V0cy9lY29uL2RlZmF1bHRfZ2VuZXJhdGVkL3dlYXBvbl9hazQ3X2N1X3RyaWJ1dGVfYWs0N19saWdodC5jZWY3N2JjNWYwOWJlMDEzNmE5MGFlZDk4NmM0MDMyNDJhZjBhMmEwLnBuZw--/auto/auto/85/notrim/e19a98e6877961d5aa80fed21e26d16b.webp",
+    "raridade": "Covert",
+    "caixa_de_drop": "Operation Vanguard Weapon Case"
+  },
+  {
+    "id": "ak47_28",
+    "nome": "Emerald Pinstripe",
+    "imagem_url": "https://cdn.csgoskins.gg/public/uih/items/aHR0cHM6Ly9jZG4uY3Nnb3NraW5zLmdnL3B1YmxpYy9pbWFnZXMvYnVja2V0cy9lY29uL2RlZmF1bHRfZ2VuZXJhdGVkL3dlYXBvbl9hazQ3X2N1X3BpbnN0cmlwZV9hazQ3X2xpZ2h0LjVjMTM2NzBmNGMyYjMxOGJmN2QwOWU2Mzk2YmYyMDJhYjQzNzExZjkucG5n/auto/auto/85/notrim/9539fd722f2b655338364ef5a1167ef1.webp",
+    "raridade": "Restricted",
+    "caixa_de_drop": "The Bank Collection"
+  },
+  {
+    "id": "ak47_29",
+    "nome": "Safety Net",
+    "imagem_url": "https://cdn.csgoskins.gg/public/uih/items/aHR0cHM6Ly9jZG4uY3Nnb3NraW5zLmdnL3B1YmxpYy9pbWFnZXMvYnVja2V0cy9lY29uL2RlZmF1bHRfZ2VuZXJhdGVkL3dlYXBvbl9hazQ3X2h5X2FrNDdsYW1fYmx1ZV9saWdodC4yMWQxOThmZjUyMzJiYmMyNWNhYTBlNjllZGFkMzhhNTI3MzMwNjg4LnBuZw--/auto/auto/85/notrim/d4e508f9635fad27c0ac0b1d6c206c67.webp",
+    "raridade": "Restricted",
+    "caixa_de_drop": "The Inferno Collection"
+  },
+  {
+    "id": "ak47_30",
+    "nome": "Blue Laminate",
+    "imagem_url": "https://cdn.csgoskins.gg/public/uih/items/aHR0cHM6Ly9jZG4uY3Nnb3NraW5zLmdnL3B1YmxpYy9pbWFnZXMvYnVja2V0cy9lY29uL2RlZmF1bHRfZ2VuZXJhdGVkL3dlYXBvbl9hazQ3X2h5X2FrNDdsYW1fYmx1ZV9saWdodC4yMWQxOThmZjUyMzJiYmMyNWNhYTBlNjllZGFkMzhhNTI3MzMwNjg4LnBuZw--/auto/auto/85/notrim/d4e508f9635fad27c0ac0b1d6c206c67.webp",
+    "raridade": "Restricted",
+    "caixa_de_drop": "eSports 2013 Winter Case"
+  },
+  {
+    "id": "ak47_31",
+    "nome": "Rat Rod",
+    "imagem_url": "https://cdn.csgoskins.gg/public/uih/items/aHR0cHM6Ly9jZG4uY3Nnb3NraW5zLmdnL3B1YmxpYy9pbWFnZXMvYnVja2V0cy9lY29uL2RlZmF1bHRfZ2VuZXJhdGVkL3dlYXBvbl9hazQ3X2dzX2FrNDdfbmliYmxlcl9saWdodC43OGJjZTExN2YzOThiYzkxYTQ4MmIwNzA2NDY2NWU3NWRiY2JmNDAxLnBuZw--/auto/auto/85/notrim/06ef55716fbaf3e6c61d3180e3f7974b.webp",
+    "raridade": "Restricted",
+    "caixa_de_drop": "Shattered Web Case"
+  },
+  {
+    "id": "ak47_32",
+    "nome": "Hydroponic",
+    "imagem_url": "https://cdn.csgoskins.gg/public/uih/items/aHR0cHM6Ly9jZG4uY3Nnb3NraW5zLmdnL3B1YmxpYy9pbWFnZXMvYnVja2V0cy9lY29uL2RlZmF1bHRfZ2VuZXJhdGVkL3dlYXBvbl9hazQ3X2FtX2JhbWJvb19qdW5nbGVfbGlnaHQuYThlMjc4MzI1OTUzY2U3MTY3ZjRhYjEwNGVkYmIzZGViOWFmMWNlMy5wbmc-/auto/auto/85/notrim/f91c66fb8abf992f784fe4b5be97a881.webp",
+    "raridade": "Classified",
+    "caixa_de_drop": "The Rising Sun Collection"
+  },
+  {
+    "id": "ak47_33",
+    "nome": "Steel Delta",
+    "imagem_url": "https://cdn.csgoskins.gg/public/uih/items/aHR0cHM6Ly9jZG4uY3Nnb3NraW5zLmdnL3B1YmxpYy9pbWFnZXMvYnVja2V0cy9lY29uL2RlZmF1bHRfZ2VuZXJhdGVkL3dlYXBvbl9hazQ3X2dzX2FrNDdfc3Ryb25lX2xpZ2h0LjRlZDBlMjQ5OWNlNzYxOTkwOTMzYmZiZTY2ZTg2YWJiMGFiZjhmM2UucG5n/auto/auto/85/notrim/631d5fa6fb0cfea1dcc2f847076e7590.webp",
+    "raridade": "Mil-Spec Grade",
+    "caixa_de_drop": "The Anubis Collection"
+  },
+  {
+    "id": "ak47_34",
+    "nome": "Red Laminate",
+    "imagem_url": "https://cdn.csgoskins.gg/public/uih/items/aHR0cHM6Ly9jZG4uY3Nnb3NraW5zLmdnL3B1YmxpYy9pbWFnZXMvYnVja2V0cy9lY29uL2RlZmF1bHRfZ2VuZXJhdGVkL3dlYXBvbl9hazQ3X2h5X2FrNDdsYW1fbGlnaHQuZmJhOTQxYTcyZDIyMjdlYzQzNjczYzEwYTE0NDY0ZWYyOTAzNGY3ZS5wbmc-/auto/auto/85/notrim/a05977732e8127e3e076f5d44c612e40.webp",
+    "raridade": "Classified",
+    "caixa_de_drop": "eSports 2013 Case"
+  },
+  {
+    "id": "ak47_35",
+    "nome": "Green Laminate",
+    "imagem_url": "https://cdn.csgoskins.gg/public/uih/items/aHR0cHM6Ly9jZG4uY3Nnb3NraW5zLmdnL3B1YmxpYy9pbWFnZXMvYnVja2V0cy9lY29uL2RlZmF1bHRfZ2VuZXJhdGVkL3dlYXBvbl9hazQ3X2h5X2FrNDdsYW1fZ3JlZW5fbGlnaHQuZDM5Mjc2MzMzMzg5YzQzZjA0ZmE1YzU5NjIzMGFmMWYzY2QwYzVkZi5wbmc-/auto/auto/85/notrim/f1cff22093737c445780a8db7f198e0e.webp",
+    "raridade": "Mil-Spec Grade",
+    "caixa_de_drop": "The 2021 Vertigo Collection"
+  },
+  {
+    "id": "ak47_36",
+    "nome": "Baroque Purple",
+    "imagem_url": "https://cdn.csgoskins.gg/public/uih/items/aHR0cHM6Ly9jZG4uY3Nnb3NraW5zLmdnL3B1YmxpYy9pbWFnZXMvYnVja2V0cy9lY29uL2RlZmF1bHRfZ2VuZXJhdGVkL3dlYXBvbl9hazQ3X2h5X3ZlbmV0b19wdXJwbGVfbGlnaHQuMzg1ZmQ4OTkwOWZiMThkYzI3NzQ4OWRlMTI2YzRmYmUzYjE4ZDRhZi5wbmc-/auto/auto/85/notrim/1e4f57443323984780abd3efe2bf1070.webp",
+    "raridade": "Industrial Grade",
+    "caixa_de_drop": "The Canals Collection"
+  },
+  {
+    "id": "ak47_37",
+    "nome": "Black Laminate",
+    "imagem_url": "https://cdn.csgoskins.gg/public/uih/items/aHR0cHM6Ly9jZG4uY3Nnb3NraW5zLmdnL3B1YmxpYy9pbWFnZXMvYnVja2V0cy9lY29uL2RlZmF1bHRfZ2VuZXJhdGVkL3dlYXBvbl9hazQ3X2h5X2FrNDdsYW1fYndfbGlnaHQuNTMwZDU2OTkwMjcwMGVhYTQ0YTY0MTk0YWFjZWU4ZWM4NGU1OWE5NC5wbmc-/auto/auto/85/notrim/b0b52a31be2e8a75d28a5056a9113cb2.webp",
+    "raridade": "Mil-Spec Grade",
+    "caixa_de_drop": "Berlin 2019 Vertigo Souvenir Package"
+  },
+  {
+    "id": "ak47_38",
+    "nome": "Safari Mesh",
+    "imagem_url": "https://cdn.csgoskins.gg/public/uih/items/aHR0cHM6Ly9jZG4uY3Nnb3NraW5zLmdnL3B1YmxpYy9pbWFnZXMvYnVja2V0cy9lY29uL2RlZmF1bHRfZ2VuZXJhdGVkL3dlYXBvbl9hazQ3X3NwX21lc2hfdGFuX2xpZ2h0LjI4YjM0MjY2ODRkZDRjZDFkOGMyZjY3ZGI5YjBkOTA5MjU3NDU1YzgucG5n/auto/auto/85/notrim/6ce6680c843475279df0e71c31c0f24e.webp",
+    "raridade": "Industrial Grade",
+    "caixa_de_drop": "The Dust 2 Collection"
+  },
+  {
+    "id": "ak47_39",
+    "nome": "Panthera Onça",
+    "imagem_url": "https://cdn.csgoskins.gg/public/uih/items/aHR0cHM6Ly9jZG4uY3Nnb3NraW5zLmdnL3B1YmxpYy9pbWFnZXMvYnVja2V0cy9lY29uL2RlZmF1bHRfZ2VuZXJhdGVkL3dlYXBvbl9hazQ3X2N1X2FrX2phZ3Vhcl9saWdodC4xNmI5YTcxYmMwMjI2ODRmZDVkOTNkZmY4MzdiOTNlMzViYzE1ZTg2LnBuZw--/auto/auto/85/notrim/b2d18a0a17b7bc6a9b183b16e486e36d.webp",
+    "raridade": "Classified",
+    "caixa_de_drop": "The Ancient Collection"
+  },
+  {
+    "id": "ak47_40",
+    "nome": "First Class",
+    "imagem_url": "https://cdn.csgoskins.gg/public/uih/items/aHR0cHM6Ly9jZG4uY3Nnb3NraW5zLmdnL3B1YmxpYy9pbWFnZXMvYnVja2V0cy9lY29uL2RlZmF1bHRfZ2VuZXJhdGVkL3dlYXBvbl9hazQ3X2N1X2dyZWVuX2xlYXRoZXJfYWs0N19saWdodC4yYzIzNTA1ZDg4ZTExNzJlMzBkMjUyMDNhZDNmYzM3MzE4OTQwYzQzLnBuZw--/auto/auto/85/notrim/9813ee2c3625a285638b78c231920d76.webp",
+    "raridade": "Restricted",
+    "caixa_de_drop": "The Baggage Collection"
+  },
+  {
+    "id": "ak47_41",
+    "nome": "Jungle Spray",
+    "imagem_url": "https://cdn.csgoskins.gg/public/uih/items/aHR0cHM6Ly9jZG4uY3Nnb3NraW5zLmdnL3B1YmxpYy9pbWFnZXMvYnVja2V0cy9lY29uL2RlZmF1bHRfZ2VuZXJhdGVkL3dlYXBvbl9hazQ3X3NwX3NwcmF5X2p1bmdsZV9saWdodC4yODIxZmYwNzEwMWE1ZjAxMzZiN2Y2OTEzZjQ0YzFiYjI1YzIyZGM3LnBuZw--/auto/auto/85/notrim/7ece85e51e8352ee8393d7f7d0ce4f35.webp",
+    "raridade": "Industrial Grade",
+    "caixa_de_drop": "The Aztec Collection"
+  },
+  {
+    "id": "ak47_42",
+    "nome": "Predator",
+    "imagem_url": "https://cdn.csgoskins.gg/public/uih/items/aHR0cHM6Ly9jZG4uY3Nnb3NraW5zLmdnL3B1YmxpYy9pbWFnZXMvYnVja2V0cy9lY29uL2RlZmF1bHRfZ2VuZXJhdGVkL3dlYXBvbl9hazQ3X3NwX3plYnJhY2FtX2xpZ2h0LjAyYjU3NWNlMWM0N2FhODM1ZDQ3YjAyNWMxZjc0NjM4NGE0M2RmNTYucG5n/auto/auto/85/notrim/918ae39b01160dfe2dd3fd84a01913a3.webp",
+    "raridade": "Industrial Grade",
+    "caixa_de_drop": "The Dust Collection"
+  },
+  {
+    "id": "ak47_43",
+    "nome": "Gold Arabesque",
+    "imagem_url": "https://cdn.csgoskins.gg/public/uih/items/aHR0cHM6Ly9jZG4uY3Nnb3NraW5zLmdnL3B1YmxpYy9pbWFnZXMvYnVja2V0cy9lY29uL2RlZmF1bHRfZ2VuZXJhdGVkL3dlYXBvbl9hazQ3X2dzX2FrNDdfZ29sZF9hcmFiZXNxdWVfbGlnaHQuNGU1MDdiNWY4ZGQ2MTI1OTBjYzc1YjZkODVjZjJmZTFjZDk1YTRkNy5wbmc-/auto/auto/85/notrim/71ca245158099f2eff0829f1f526b836.webp",
+    "raridade": "Covert",
+    "caixa_de_drop": "The 2021 Dust 2 Collection"
+  },
+  {
+    "id": "ak47_44",
+    "nome": "X-Ray",
+    "imagem_url": "https://cdn.csgoskins.gg/public/uih/items/aHR0cHM6Ly9jZG4uY3Nnb3NraW5zLmdnL3B1YmxpYy9pbWFnZXMvYnVja2V0cy9lY29uL2RlZmF1bHRfZ2VuZXJhdGVkL3dlYXBvbl9hazQ3X2N1X2FrX3hyYXlfbGlnaHQuNjVkYzI3MDVhZjZiOGM2YTkyZjk3NWZhMWVhZDQwNDNmNzIyM2E4NC5wbmc-/auto/auto/85/notrim/f206a97ce66f5b0fc758c73c2f66a987.webp",
+    "raridade": "Covert",
+    "caixa_de_drop": "The Havoc Collection"
+  },
+  {
+    "id": "ak47_45",
+    "nome": "Jet Set",
+    "imagem_url": "https://cdn.csgoskins.gg/public/uih/items/aHR0cHM6Ly9jZG4uY3Nnb3NraW5zLmdnL3B1YmxpYy9pbWFnZXMvYnVja2V0cy9lY29uL2RlZmF1bHRfZ2VuZXJhdGVkL3dlYXBvbl9hazQ3X2N1X3dlbGxfdHJhdmVsZWRfYWs0N19saWdodC4zNTJkNmM2MmQ3NTRlNjVmZWE3NDZjYTAzMzA2YjkzNWQ2MjNmZTY1LnBuZw--/auto/auto/85/notrim/66eb93ec2d90422d283fa3ff6edc0346.webp",
+    "raridade": "Classified",
+    "caixa_de_drop": "The Baggage Collection"
+  },
+  {
+    "id": "ak47_46",
+    "nome": "Wild Lotus",
+    "imagem_url": "https://cdn.csgoskins.gg/public/uih/items/aHR0cHM6Ly9jZG4uY3Nnb3NraW5zLmdnL3B1YmxpYy9pbWFnZXMvYnVja2V0cy9lY29uL2RlZmF1bHRfZ2VuZXJhdGVkL3dlYXBvbl9hazQ3X2N1X2FrX2lzbGFuZF9mbG9yYWxfbGlnaHQuMDU4ZjMxNzMyZDY4MjhhYzg2NzYxYzM4ZWUzNDAxMWM0NjhiMjY1Ny5wbmc-/auto/auto/85/notrim/1e41e194aadbf596cf6b991bb9ba1132.webp",
+    "raridade": "Covert",
+    "caixa_de_drop": "The St. Marc Collection"
+  },
+  {
+    "id": "Deagle_1",
+    "nome": "Printstream",
+    "imagem_url": "https://cdn.csgoskins.gg/public/uih/items/aHR0cHM6Ly9jZG4uY3Nnb3NraW5zLmdnL3B1YmxpYy9pbWFnZXMvYnVja2V0cy9lY29uL2RlZmF1bHRfZ2VuZXJhdGVkL3dlYXBvbl9kZWFnbGVfY3VfZGVhZ19wcmludHN0cmVhbV9saWdodC42MmMxYzM4NDAyYTcyMzZmMjM0M2EzYzU1NDBkOTU0NDFkOTQwNWI2LnBuZw--/auto/auto/85/notrim/52e0947839e2a5f9088813a8d4e8ab6f.webp",
+    "raridade": "Covert",
+    "caixa_de_drop": "Fracture Case"
+  },
+  {
+    "id": "Deagle_2",
+    "nome": "Mecha Industries",
+    "imagem_url": "https://cdn.csgoskins.gg/public/uih/items/aHR0cHM6Ly9jZG4uY3Nnb3NraW5zLmdnL3B1YmxpYy9pbWFnZXMvYnVja2V0cy9lY29uL2RlZmF1bHRfZ2VuZXJhdGVkL3dlYXBvbl9kZWFnbGVfZ3NfZGVhZ2xlX21lY2hhX2xpZ2h0LjBlMGJmYTM3NzM1YzNlYmEzYTRlMzQ1YjNmNjk1YjM3YzYwNmE0NGIucG5n/auto/auto/85/notrim/aec4a459c93f23280568ae8d24134a1e.webp",
+    "raridade": "Classified",
+    "caixa_de_drop": "Danger Zone Case"
+  },
+  {
+    "id": "Deagle_3",
+    "nome": "Code Red",
+    "imagem_url": "https://cdn.csgoskins.gg/public/uih/items/aHR0cHM6Ly9jZG4uY3Nnb3NraW5zLmdnL3B1YmxpYy9pbWFnZXMvYnVja2V0cy9lY29uL2RlZmF1bHRfZ2VuZXJhdGVkL3dlYXBvbl9kZWFnbGVfZ3NfZGVhZ2xlX2FnZ3Jlc3Nvcl9saWdodC5hMzcxOWU4OGU4Y2JjNzFhOTQ3N2I0MjZlODk3YWIzZWU4YjMxYzcyLnBuZw--/auto/auto/85/notrim/aa7e9a033f0ead9833eeabeabd17faed.webp",
+    "raridade": "Covert",
+    "caixa_de_drop": "Horizon Case"
+  },
+  {
+    "id": "Deagle_4",
+    "nome": "Kumicho Dragon",
+    "imagem_url": "https://cdn.csgoskins.gg/public/uih/items/aHR0cHM6Ly9jZG4uY3Nnb3NraW5zLmdnL3B1YmxpYy9pbWFnZXMvYnVja2V0cy9lY29uL2RlZmF1bHRfZ2VuZXJhdGVkL3dlYXBvbl9kZWFnbGVfYXFfZGVzZXJ0ZWFnbGVfa3VtaWNob2RyYWdvbl9saWdodC5jNmYxNDRhMGY0NmVlZGFmYmExYjMwOGMyOTZmZTMzY2FiYzUzMmY1LnBuZw--/auto/auto/85/notrim/25a3b115a13a51390ce0c0b8406d4120.webp",
+    "raridade": "Classified",
+    "caixa_de_drop": "Operation Wildfire Case"
+  },
+  {
+    "id": "Deagle_5",
+    "nome": "Ocean Drive",
+    "imagem_url": "https://cdn.csgoskins.gg/public/uih/items/aHR0cHM6Ly9jZG4uY3Nnb3NraW5zLmdnL3B1YmxpYy9pbWFnZXMvYnVja2V0cy9lY29uL2RlZmF1bHRfZ2VuZXJhdGVkL3dlYXBvbl9kZWFnbGVfY3VfZGVhZ2xlX2tpdGNoX2xpZ2h0LmMxYzNkM2Q5MTQ2NjQ2MjQ1MDhiNjk0ZDhmNGUyYzYyYjQ1NDQ0NjIucG5n/auto/auto/85/notrim/29963e95736adaa60818f2746a766293.webp",
+    "raridade": "Covert",
+    "caixa_de_drop": "Operation Riptide Case"
+  },
+  {
+    "id": "Deagle_6",
+    "nome": "Trigger Discipline",
+    "imagem_url": "https://cdn.csgoskins.gg/public/uih/items/aHR0cHM6Ly9jZG4uY3Nnb3NraW5zLmdnL3B1YmxpYy9pbWFnZXMvYnVja2V0cy9lY29uL2RlZmF1bHRfZ2VuZXJhdGVkL3dlYXBvbl9kZWFnbGVfY3VfZGVhZ190cmlnZ2VyX2Rpc2NpcGxpbmVfbGlnaHQuMjU3Nzc3MTA1MWYzNzIzZGZjYmIwOGMzZGRjZjk2MTkxMjkxNjdmMy5wbmc-/auto/auto/85/notrim/b1c91d7198b1d5653ed0bd850882137f.webp",
+    "raridade": "Restricted",
+    "caixa_de_drop": "Snakebite Case"
+  },
+  {
+    "id": "Deagle_7",
+    "nome": "Conspiracy",
+    "imagem_url": "https://cdn.csgoskins.gg/public/uih/items/aHR0cHM6Ly9jZG4uY3Nnb3NraW5zLmdnL3B1YmxpYy9pbWFnZXMvYnVja2V0cy9lY29uL2RlZmF1bHRfZ2VuZXJhdGVkL3dlYXBvbl9kZWFnbGVfY3VfZGVhZ2xlX2F1cmV1c19saWdodC5hNmQzNmU4Y2M0Y2ZkNzY2YzAwNTUxMzQ1NDMwNGJhZTI1YjljMzc5LnBuZw--/auto/auto/85/notrim/c45f38c5a185cdab1c1b3ade1ceb35ed.webp",
+    "raridade": "Classified",
+    "caixa_de_drop": "Operation Breakout Weapon Case"
+  },
+  {
+    "id": "Deagle_8",
+    "nome": "Cobalt Disruption",
+    "imagem_url": "https://cdn.csgoskins.gg/public/uih/items/aHR0cHM6Ly9jZG4uY3Nnb3NraW5zLmdnL3B1YmxpYy9pbWFnZXMvYnVja2V0cy9lY29uL2RlZmF1bHRfZ2VuZXJhdGVkL3dlYXBvbl9kZWFnbGVfYW1fZGRwYXRkZW5zZV9wZWFjb2NrX2xpZ2h0LjllZmUzMTk0ZDA1NjE3ZTRmYjRlNjYwYjQ4ZDU1MmNlYjNiNTEwZmYucG5n/auto/auto/85/notrim/92be95796ef54d9b3b5e0e26ffb86f7e.webp",
+    "raridade": "Classified",
+    "caixa_de_drop": "eSports 2013 Winter Case"
+  },
+  {
+    "id": "Deagle_9",
+    "nome": "Fennec Fox",
+    "imagem_url": "https://cdn.csgoskins.gg/public/uih/items/aHR0cHM6Ly9jZG4uY3Nnb3NraW5zLmdnL3B1YmxpYy9pbWFnZXMvYnVja2V0cy9lY29uL2RlZmF1bHRfZ2VuZXJhdGVkL3dlYXBvbl9kZWFnbGVfZ3NfZGVhZ2xlX2Zlbm5lY19saWdodC4zNjE5MjFkNDQ1OTE0YWY4ZGM3MGEyOGU4M2M2MDU3MDNjNjA1ZTFkLnBuZw--/auto/auto/85/notrim/a854153dc3fa2c195117b7d56016ae06.webp",
+    "raridade": "Classified",
+    "caixa_de_drop": "The 2021 Mirage Collection"
+  },
+  {
+    "id": "Deagle_10",
+    "nome": "Light Rail",
+    "imagem_url": "https://cdn.csgoskins.gg/public/uih/items/aHR0cHM6Ly9jZG4uY3Nnb3NraW5zLmdnL3B1YmxpYy9pbWFnZXMvYnVja2V0cy9lY29uL2RlZmF1bHRfZ2VuZXJhdGVkL3dlYXBvbl9kZWFnbGVfZ3NfZGVhZ2xlX2V4b19saWdodC44ZDlmZTg2N2NiMWU4NGYyZjRjMGE5OGUyNzI2MTE4YjMyZTU5MGQ1LnBuZw--/auto/auto/85/notrim/0deb275bf988abeb3e2e7afe244b44bb.webp",
+    "raridade": "Restricted",
+    "caixa_de_drop": "Prisma Case"
+  },
+  {
+    "id": "Deagle_11",
+    "nome": "Crimson Web",
+    "imagem_url": "https://cdn.csgoskins.gg/public/uih/items/aHR0cHM6Ly9jZG4uY3Nnb3NraW5zLmdnL3B1YmxpYy9pbWFnZXMvYnVja2V0cy9lY29uL2RlZmF1bHRfZ2VuZXJhdGVkL3dlYXBvbl9kZWFnbGVfaHlfd2Vic19kYXJrZXJfbGlnaHQuNGYxM2FmYTRlZjYxNDAyNmM3NjJiZjk3NTdiN2NmZjlhZjIxMTdhMC5wbmc-/auto/auto/85/notrim/4d207214b0642f66d30fc5a1242de814.webp",
+    "raridade": "Restricted",
+    "caixa_de_drop": "eSports 2014 Summer Case"
+  },
+  {
+    "id": "Deagle_12",
+    "nome": "Hypnotic",
+    "imagem_url": "https://cdn.csgoskins.gg/public/uih/items/aHR0cHM6Ly9jZG4uY3Nnb3NraW5zLmdnL3B1YmxpYy9pbWFnZXMvYnVja2V0cy9lY29uL2RlZmF1bHRfZ2VuZXJhdGVkL3dlYXBvbl9kZWFnbGVfYWFfdmVydGlnb19saWdodC5kNTJmMjdmMDQyMGNkYTQ1ZDMzNTM1ZGExMDA0NjI1ZDU3YTlkYzE1LnBuZw--/auto/auto/85/notrim/86b526041421c2c809df880fc84b6746.webp",
+    "raridade": "Classified",
+    "caixa_de_drop": "CS:GO Weapon Case"
+  },
+  {
+    "id": "Deagle_13",
+    "nome": "The Bronze",
+    "imagem_url": "https://cdn.csgoskins.gg/public/uih/items/aHR0cHM6Ly9jZG4uY3Nnb3NraW5zLmdnL3B1YmxpYy9pbWFnZXMvYnVja2V0cy9lY29uL2RlZmF1bHRfZ2VuZXJhdGVkL3dlYXBvbl9kZWFnbGVfYW1fbnVtYmVyc19icm9uemVfbGlnaHQuYmVjNzE0OGM0YmZiMWRhMmY5MzZiMjM0ZWVlZDdkZDJiMTI2ODJmOS5wbmc-/auto/auto/85/notrim/6ffe863697d7d8951b6d21008762d9f6.webp",
+    "raridade": "Industrial Grade",
+    "caixa_de_drop": "The Control Collection"
+  },
+  {
+    "id": "Deagle_14",
+    "nome": "Hand Cannon",
+    "imagem_url": "https://cdn.csgoskins.gg/public/uih/items/aHR0cHM6Ly9jZG4uY3Nnb3NraW5zLmdnL3B1YmxpYy9pbWFnZXMvYnVja2V0cy9lY29uL2RlZmF1bHRfZ2VuZXJhdGVkL3dlYXBvbl9kZWFnbGVfYXFfaGFuZGNhbm5vbl9saWdodC5kY2QyMzkzN2FhMDhkZjliOGE2ZjM3NDRmMWE4N2EzMWEzOTI5OGRlLnBuZw--/auto/auto/85/notrim/6936e5f74379eedceceb018ae8be29e0.webp",
+    "raridade": "Restricted",
+    "caixa_de_drop": "The Cobblestone Collection"
+  },
+  {
+    "id": "Deagle_15",
+    "nome": "Meteorite",
+    "imagem_url": "https://cdn.csgoskins.gg/public/uih/items/aHR0cHM6Ly9jZG4uY3Nnb3NraW5zLmdnL3B1YmxpYy9pbWFnZXMvYnVja2V0cy9lY29uL2RlZmF1bHRfZ2VuZXJhdGVkL3dlYXBvbl9kZWFnbGVfYW1fY3J5c3RhbGxpemVkX2RhcmtfbGlnaHQuZGEwNTIwZmFlMDc3MzYxMjQzOWViM2UxODcyYjAxMTY2OTc3ZjQ1ZC5wbmc-/auto/auto/85/notrim/5fcea9b1cfe520bc3c4b10da21947c2e.webp",
+    "raridade": "Mil-Spec Grade",
+    "caixa_de_drop": "The Bank Collection"
+  },
+  {
+    "id": "Deagle_16",
+    "nome": "Blue Ply",
+    "imagem_url": "https://cdn.csgoskins.gg/public/uih/items/aHR0cHM6Ly9jZG4uY3Nnb3NraW5zLmdnL3B1YmxpYy9pbWFnZXMvYnVja2V0cy9lY29uL2RlZmF1bHRfZ2VuZXJhdGVkL3dlYXBvbl9kZWFnbGVfY3VfZGVhZ2xlX3JlcGxpY2FfbGlnaHQuMDk3Y2RmZWZhZTk1Y2RjZDY0MDNmNjVlMjE5ZDczMjZiMTM4ODhhMC5wbmc-/auto/auto/85/notrim/a05a916766c36089ae8f53df7aa80c71.webp",
+    "raridade": "Mil-Spec Grade",
+    "caixa_de_drop": "Prisma 2 Case"
+  },
+  {
+    "id": "Deagle_17",
+    "nome": "Naga",
+    "imagem_url": "https://cdn.csgoskins.gg/public/uih/items/aHR0cHM6Ly9jZG4uY3Nnb3NraW5zLmdnL3B1YmxpYy9pbWFnZXMvYnVja2V0cy9lY29uL2RlZmF1bHRfZ2VuZXJhdGVkL3dlYXBvbl9kZWFnbGVfYXFfZGVhZ2xlX25hZ2FfbGlnaHQuNmJhZThlZGQ0ZmVlY2Q1YWUyZTdlYWJkNmIwMTIwOGVkMzFhNDBmZi5wbmc-/auto/auto/85/notrim/37168f5a9d2665b426fc4b35e2d47c65.webp",
+    "raridade": "Restricted",
+    "caixa_de_drop": "Chroma Case"
+  },
+  {
+    "id": "Deagle_18",
+    "nome": "Corinthian",
+    "imagem_url": "https://cdn.csgoskins.gg/public/uih/items/aHR0cHM6Ly9jZG4uY3Nnb3NraW5zLmdnL3B1YmxpYy9pbWFnZXMvYnVja2V0cy9lY29uL2RlZmF1bHRfZ2VuZXJhdGVkL3dlYXBvbl9kZWFnbGVfYXFfZGVhZ2xlX2NvcmludGhpYW5fbGlnaHQuNTY1OWFmZmI2MWY2NmU2MWM4ZWRkZjRmNmJhNmY3NWRmOGM0YmFlMS5wbmc-/auto/auto/85/notrim/de056b8b930c98b96b845f63a8169c32.webp",
+    "raridade": "Mil-Spec Grade",
+    "caixa_de_drop": "Revolver Case"
+  },
+  {
+    "id": "Deagle_19",
+    "nome": "Midnight Storm",
+    "imagem_url": "https://cdn.csgoskins.gg/public/uih/items/aHR0cHM6Ly9jZG4uY3Nnb3NraW5zLmdnL3B1YmxpYy9pbWFnZXMvYnVja2V0cy9lY29uL2RlZmF1bHRfZ2VuZXJhdGVkL3dlYXBvbl9kZWFnbGVfYW1fc2Vhc3Rvcm1fbGlnaHQuMWIwZTY2YmQ2MjhlYmI0NTg5ZjY3Nzg4MmM4ZTE0NmVlZTVhZTIzYy5wbmc-/auto/auto/85/notrim/c00379cddada46e417253472c9a8060c.webp",
+    "raridade": "Industrial Grade",
+    "caixa_de_drop": "The Rising Sun Collection"
+  },
+  {
+    "id": "Deagle_20",
+    "nome": "Night",
+    "imagem_url": "https://cdn.csgoskins.gg/public/uih/items/aHR0cHM6Ly9jZG4uY3Nnb3NraW5zLmdnL3B1YmxpYy9pbWFnZXMvYnVja2V0cy9lY29uL2RlZmF1bHRfZ2VuZXJhdGVkL3dlYXBvbl9kZWFnbGVfc29fbmlnaHRfbGlnaHQuNzIzYTE4NGIyYWQxMDNhN2VjMjMzZjVlNTk0MmY4ZmJmMzk2MGJjYi5wbmc-/auto/auto/85/notrim/277ee075ffd50582e810d196a811c981.webp",
+    "raridade": "Industrial Grade",
+    "caixa_de_drop": "The Chop Shop Collection"
+  },
+  {
+    "id": "Deagle_21",
+    "nome": "Sunset Storm 弐",
+    "imagem_url": "https://cdn.csgoskins.gg/public/uih/items/aHR0cHM6Ly9jZG4uY3Nnb3NraW5zLmdnL3B1YmxpYy9pbWFnZXMvYnVja2V0cy9lY29uL2RlZmF1bHRfZ2VuZXJhdGVkL3dlYXBvbl9kZWFnbGVfYW1fc2Vhc3Rvcm1fc2hvam9fbGlnaHQuOTY5ODYwMTRiNDQ3ZWNkZGMyZDM2NDUxY2UyMGEyZTE1OGFmYjcyYi5wbmc-/auto/auto/85/notrim/5ca1c163dc7bb20ae8f9e41849fd19f1.webp",
+    "raridade": "Restricted",
+    "caixa_de_drop": "The Rising Sun Collection"
+  },
+  {
+    "id": "Deagle_22",
+    "nome": "Directive",
+    "imagem_url": "https://cdn.csgoskins.gg/public/uih/items/aHR0cHM6Ly9jZG4uY3Nnb3NraW5zLmdnL3B1YmxpYy9pbWFnZXMvYnVja2V0cy9lY29uL2RlZmF1bHRfZ2VuZXJhdGVkL3dlYXBvbl9kZWFnbGVfYXFfZGVzZXJ0X2VhZ2xlX2NvbnN0YWJsZV9saWdodC5iMDIyM2JkOGViZTY4NjliNjM2ZTA4YWQyMTY3MjQwNGY0MzYwYWMzLnBuZw--/auto/auto/85/notrim/b65fadb18f7bcdc9f76f3a96f4052cde.webp",
+    "raridade": "Restricted",
+    "caixa_de_drop": "Gamma 2 Case"
+  },
+  {
+    "id": "Deagle_23",
+    "nome": "Oxide Blaze",
+    "imagem_url": "https://cdn.csgoskins.gg/public/uih/items/aHR0cHM6Ly9jZG4uY3Nnb3NraW5zLmdnL3B1YmxpYy9pbWFnZXMvYnVja2V0cy9lY29uL2RlZmF1bHRfZ2VuZXJhdGVkL3dlYXBvbl9kZWFnbGVfY3VfZGVzZXJ0X2VhZ2xlX2NvcnJvZGVuX2xpZ2h0LmVlYzc0MzE2NTNjNmQ4NDQyZDcyOWQwMTg5MjVkYzViYTk2M2ZjNmIucG5n/auto/auto/85/notrim/b64bee141e1060a26cefc4c0d4123843.webp",
+    "raridade": "Mil-Spec Grade",
+    "caixa_de_drop": "Spectrum Case"
+  },
+  {
+    "id": "Deagle_24",
+    "nome": "Golden Koi",
+    "imagem_url": "https://cdn.csgoskins.gg/public/uih/items/aHR0cHM6Ly9jZG4uY3Nnb3NraW5zLmdnL3B1YmxpYy9pbWFnZXMvYnVja2V0cy9lY29uL2RlZmF1bHRfZ2VuZXJhdGVkL3dlYXBvbl9kZWFnbGVfYW1fc2NhbGVzX2JyYXZvX2xpZ2h0LjZkMGFiZWE5MTcwMTE2ZGYzYWU0MmJlMjIyMWM0NDY5ZDM4ZmYwMGQucG5n/auto/auto/85/notrim/94aca31109fa537231bd6614725f5dd4.webp",
+    "raridade": "Covert",
+    "caixa_de_drop": "Operation Bravo Case"
+  },
+  {
+    "id": "Deagle_25",
+    "nome": "Sputnik",
+    "imagem_url": "https://cdn.csgoskins.gg/public/uih/items/aHR0cHM6Ly9jZG4uY3Nnb3NraW5zLmdnL3B1YmxpYy9pbWFnZXMvYnVja2V0cy9lY29uL2RlZmF1bHRfZ2VuZXJhdGVkL3dlYXBvbl9kZWFnbGVfc3Bfc3BhY2VyYWNlX2JsdWVfbGlnaHQuNzhjOGQ0ZWQzNWY3NzYwM2FmNWRhYjc0NzhhZTIzODhjYzEyZTA0Zi5wbmc-/auto/auto/85/notrim/06d41fb59b9ed71a982393cb71713d3d.webp",
+    "raridade": "Mil-Spec Grade",
+    "caixa_de_drop": "The 2021 Train Collection"
+  },
+  {
+    "id": "Deagle_26",
+    "nome": "Bronze Deco",
+    "imagem_url": "https://cdn.csgoskins.gg/public/uih/items/aHR0cHM6Ly9jZG4uY3Nnb3NraW5zLmdnL3B1YmxpYy9pbWFnZXMvYnVja2V0cy9lY29uL2RlZmF1bHRfZ2VuZXJhdGVkL3dlYXBvbl9kZWFnbGVfYW1fYnJvbnplX3NwYXJrbGVfbGlnaHQuNWZiYWZmZTQzNDFkNWNkYmUyZDcyZDNjZWU3MGRkZmUzYTkwZjQ3YS5wbmc-/auto/auto/85/notrim/5262a3c95af503261ca32a1f17f6f138.webp",
+    "raridade": "Mil-Spec Grade",
+    "caixa_de_drop": "Chroma 2 Case"
+  },
+  {
+    "id": "Deagle_28",
+    "nome": "Emerald Jörmungandr",
+    "imagem_url": "https://cdn.csgoskins.gg/public/uih/items/aHR0cHM6Ly9jZG4uY3Nnb3NraW5zLmdnL3B1YmxpYy9pbWFnZXMvYnVja2V0cy9lY29uL2RlZmF1bHRfZ2VuZXJhdGVkL3dlYXBvbl9kZWFnbGVfYW1fam9ybV9ncmVlbl9saWdodC5lODliYmYwMWVhMDIyNDlkYmEwMDBkYzFlZGE0ZDM5ZDdjMTU0ZTgyLnBuZw--/auto/auto/85/notrim/43b435b0bf252fcc67dd6550e1993196.webp",
+    "raridade": "Restricted",
+    "caixa_de_drop": "The Norse Collection"
+  },
+  {
+    "id": "Deagle_29",
+    "nome": "Night Heist",
+    "imagem_url": "https://cdn.csgoskins.gg/public/uih/items/aHR0cHM6Ly9jZG4uY3Nnb3NraW5zLmdnL3B1YmxpYy9pbWFnZXMvYnVja2V0cy9lY29uL2RlZmF1bHRfZ2VuZXJhdGVkL3dlYXBvbl9kZWFnbGVfYW1faGVpc3RfcGxhbnNfcHVycGxlX2xpZ2h0LjE5NWU2MjIxMzMyYjA0NTNiNDc3Yjk2YzEzZGNkMGU2ZDQwMjQ0NWYucG5n/auto/auto/85/notrim/37b96626da902ac86997c92375dad3cf.webp",
+    "raridade": "Mil-Spec Grade",
+    "caixa_de_drop": "The Havoc Collection"
+  },
+  {
+    "id": "Deagle_30",
+    "nome": "Heirloom",
+    "imagem_url": "https://cdn.csgoskins.gg/public/uih/items/aHR0cHM6Ly9jZG4uY3Nnb3NraW5zLmdnL3B1YmxpYy9pbWFnZXMvYnVja2V0cy9lY29uL2RlZmF1bHRfZ2VuZXJhdGVkL3dlYXBvbl9kZWFnbGVfYXFfZW5ncmF2ZWRfZGVhZ2xlX2xpZ2h0LjQ4MTQyZDI4Y2IxODgzZWNkYTk1YzA0NDc1ZmIxOTUzNDFjNDlmMTgucG5n/auto/auto/85/notrim/ab6c3b0d12a5689387d61faae0f643fa.webp",
+    "raridade": "Restricted",
+    "caixa_de_drop": "CS:GO Weapon Case 3"
+  },
+  {
+    "id": "Deagle_31",
+    "nome": "Urban Rubble",
+    "imagem_url": "https://cdn.csgoskins.gg/public/uih/items/aHR0cHM6Ly9jZG4uY3Nnb3NraW5zLmdnL3B1YmxpYy9pbWFnZXMvYnVja2V0cy9lY29uL2RlZmF1bHRfZ2VuZXJhdGVkL3dlYXBvbl9kZWFnbGVfaHlfdmFyaWNhbW9fdXJiYW5fbGlnaHQuNjQ3ZGJiOGFiNzlkNjVhMzg2NWRiYzVkMjllZWI4MTQ4MjEwNzNkZC5wbmc-/auto/auto/85/notrim/d6e50e02399d6cbb2dcb5d0a2d014415.webp",
+    "raridade": "Mil-Spec Grade",
+    "caixa_de_drop": "The Train Collection"
+  },
+  {
+    "id": "Deagle_32",
+    "nome": "Urban DDPAT",
+    "imagem_url": "https://cdn.csgoskins.gg/public/uih/items/aHR0cHM6Ly9jZG4uY3Nnb3NraW5zLmdnL3B1YmxpYy9pbWFnZXMvYnVja2V0cy9lY29uL2RlZmF1bHRfZ2VuZXJhdGVkL3dlYXBvbl9kZWFnbGVfaHlfZGRwYXRfdXJiX2xpZ2h0LmY4YTM2ZTczNGJjN2U5ZGZkZDU2NjQ4MTkyOTAzMzAxOWFlMjdkZTUucG5n/auto/auto/85/notrim/56fc0e2a2935b24f49234bf0b6fa761a.webp",
+    "raridade": "Industrial Grade",
+    "caixa_de_drop": "The Overpass Collection"
+  },
+  {
+    "id": "Deagle_33",
+    "nome": "Pilot",
+    "imagem_url": "https://cdn.csgoskins.gg/public/uih/items/aHR0cHM6Ly9jZG4uY3Nnb3NraW5zLmdnL3B1YmxpYy9pbWFnZXMvYnVja2V0cy9lY29uL2RlZmF1bHRfZ2VuZXJhdGVkL3dlYXBvbl9kZWFnbGVfYXFfcGlsb3RfZGVhZ2xlX2xpZ2h0Ljc3NjY0Y2JkNjQzMzYyMGVjY2NjYjIyZTY1MjQ2MzJkMmM5Y2U1N2EucG5n/auto/auto/85/notrim/36041779c5f5cafe68c91b1a50d2858b.webp",
+    "raridade": "Restricted",
+    "caixa_de_drop": "The Baggage Collection"
+  },
+  {
+    "id": "Deagle_34",
+    "nome": "Mudder",
+    "imagem_url": "https://cdn.csgoskins.gg/public/uih/items/aHR0cHM6Ly9jZG4uY3Nnb3NraW5zLmdnL3B1YmxpYy9pbWFnZXMvYnVja2V0cy9lY29uL2RlZmF1bHRfZ2VuZXJhdGVkL3dlYXBvbl9kZWFnbGVfaHlfbW90dGxlZF9zYW5kX2xpZ2h0LmIwYzhlNWUxYjMzNGRmNWE2M2ZjODIyMTYyYjlhMmE4NDVkOWY1M2QucG5n/auto/auto/85/notrim/15ce5af2c86dcbfd7b317c0e83d6d8f2.webp",
+    "raridade": "Industrial Grade",
+    "caixa_de_drop": "The Lake Collection"
+  },
+  {
+    "id": "Deagle_35",
+    "nome": "Desert Eagle | Sunset Storm 壱",
+    "imagem_url": "https://cdn.csgoskins.gg/public/uih/items/aHR0cHM6Ly9jZG4uY3Nnb3NraW5zLmdnL3B1YmxpYy9pbWFnZXMvYnVja2V0cy9lY29uL2RlZmF1bHRfZ2VuZXJhdGVkL3dlYXBvbl9kZWFnbGVfYW1fc2Vhc3Rvcm1fYmxvb2RfbGlnaHQuN2I1NzA1ZmZiODM3MjAxMDUxZTI4ZWM0ZmRlYWVhYmExYjYyZGE2Mi5wbmc-/auto/auto/85/notrim/b340cfe885e6aa7a10731e2ceccd684f.webp",
+    "raridade": "Restricted",
+    "caixa_de_drop": "The Rising Sun Collection"
+  },
+  {
+    "id": "Deagle_36",
+    "nome": "Blaze",
+    "imagem_url": "https://cdn.csgoskins.gg/public/uih/items/aHR0cHM6Ly9jZG4uY3Nnb3NraW5zLmdnL3B1YmxpYy9pbWFnZXMvYnVja2V0cy9lY29uL2RlZmF1bHRfZ2VuZXJhdGVkL3dlYXBvbl9kZWFnbGVfYWFfZmxhbWVzX2xpZ2h0LjY2YjQxMDc1MGRkYThmYjNkN2VlN2Q2MzczYjZhODE4Mzc3M2NlZGEucG5n/auto/auto/85/notrim/4c7180630d3acbe162750f57b8881a09.webp",
+    "raridade": "Restricted",
+    "caixa_de_drop": "The Dust Collection"
+  },
+  {
+    "id": "Awp_1",
+    "nome": "Neo-Noir",
+    "imagem_url": "https://cdn.csgoskins.gg/public/uih/items/aHR0cHM6Ly9jZG4uY3Nnb3NraW5zLmdnL3B1YmxpYy9pbWFnZXMvYnVja2V0cy9lY29uL2RlZmF1bHRfZ2VuZXJhdGVkL3dlYXBvbl9hd3BfY3VfYXdwX25lb25vaXJfbGlnaHQuMmM1ZWY0MGJmYzVkYWY4ZGExMThiODliNjcxNWVmYjg4ZTFkMTZiMi5wbmc-/auto/auto/85/notrim/4ce6489b10ad5e109c3875c16c944128.webp",
+    "raridade": "Covert",
+    "caixa_de_drop": "Danger Zone Case"
+  },
+  {
+    "id": "Awp_2",
+    "nome": "Asiimov",
+    "imagem_url": "https://cdn.csgoskins.gg/public/uih/items/aHR0cHM6Ly9jZG4uY3Nnb3NraW5zLmdnL3B1YmxpYy9pbWFnZXMvYnVja2V0cy9lY29uL2RlZmF1bHRfZ2VuZXJhdGVkL3dlYXBvbl9hd3BfY3VfYXdwX2FzaW1vdl9saWdodC5mM2FjOTA3MzdlZTI5NjdhMjEwMjQzMDNkNGYzYTU3ZjExNGE1OWMxLnBuZw--/auto/auto/85/notrim/ce0433093ead722232f6285355b124d7.webp",
+    "raridade": "Covert",
+    "caixa_de_drop": "Operation Phoenix Weapon Case"
+  },
+  {
+    "id": "Awp_3",
+    "nome": "Wildfire",
+    "imagem_url": "https://cdn.csgoskins.gg/public/uih/items/aHR0cHM6Ly9jZG4uY3Nnb3NraW5zLmdnL3B1YmxpYy9pbWFnZXMvYnVja2V0cy9lY29uL2RlZmF1bHRfZ2VuZXJhdGVkL3dlYXBvbl9hd3BfY3VfYXdwX3dpbGRmaXJlX2xpZ2h0LmEyMzRiODYxZTU5OWJlOTdmZWU4M2U4YjczYmVlN2RiNjI1NjRhZWQucG5n/auto/auto/85/notrim/70a14cd9e738d5bda66c3e46a092de0c.webp",
+    "raridade": "Covert",
+    "caixa_de_drop": "CS20 Case"
+  },
+  {
+    "id": "Awp_4",
+    "nome": "Chromatic Aberration",
+    "imagem_url": "https://cdn.csgoskins.gg/public/uih/items/aHR0cHM6Ly9jZG4uY3Nnb3NraW5zLmdnL3B1YmxpYy9pbWFnZXMvYnVja2V0cy9lY29uL2RlZmF1bHRfZ2VuZXJhdGVkL3dlYXBvbl9hd3BfY3VfYXdwX2Nocm9tYV9waW5rX2xpZ2h0LjcwYWMzYTk1MDk3OGRiNWJlNzIwMDVjMWRiOGI3MTRmZjY2OTNhNDkucG5n/auto/auto/85/notrim/d7650a6bc5632b73dc72988ebad383fb.webp",
+    "raridade": "Covert",
+    "caixa_de_drop": "Recoil Case"
+  },
+  {
+    "id": "Awp_5",
+    "nome": "Atheris",
+    "imagem_url": "https://cdn.csgoskins.gg/public/uih/items/aHR0cHM6Ly9jZG4uY3Nnb3NraW5zLmdnL3B1YmxpYy9pbWFnZXMvYnVja2V0cy9lY29uL2RlZmF1bHRfZ2VuZXJhdGVkL3dlYXBvbl9hd3BfY3VfYXdwX3ZpcGVyX2xpZ2h0LjEyZTJlOTA3Zjg4ZjU2MzNhMzEzMGVlMDY5ZDQxMDg3OWNmNWE2NmUucG5n/auto/auto/85/notrim/4dce1a042bb0f10ba8b305ed7037de2e.webp",
+    "raridade": "Restricted",
+    "caixa_de_drop": "Prisma Case"
+  },
+  {
+    "id": "Awp_6",
+    "nome": "Fever Dream",
+    "imagem_url": "https://cdn.csgoskins.gg/public/uih/items/aHR0cHM6Ly9jZG4uY3Nnb3NraW5zLmdnL3B1YmxpYy9pbWFnZXMvYnVja2V0cy9lY29uL2RlZmF1bHRfZ2VuZXJhdGVkL3dlYXBvbl9hd3BfY3VfYXdwX3BzeWNob3BhdGhfbGlnaHQuNmQ2NmI4MzM4OTQ0Njc4ZjNiNjBlMTkzMGRjMTFmOWQ3NzhkMjlkZi5wbmc-/auto/auto/85/notrim/c046625c274691b12eadc63181b4b5bb.webp",
+    "raridade": "Classified",
+    "caixa_de_drop": "Spectrum Case"
+  },
+  {
+    "id": "Awp_7",
+    "nome": "Containment Breach",
+    "imagem_url": "https://cdn.csgoskins.gg/public/uih/items/aHR0cHM6Ly9jZG4uY3Nnb3NraW5zLmdnL3B1YmxpYy9pbWFnZXMvYnVja2V0cy9lY29uL2RlZmF1bHRfZ2VuZXJhdGVkL3dlYXBvbl9hd3BfY3VfYXdwX3ZpcnVzX2xpZ2h0LmE4NjQyM2UwYTVjMjUxMWM1MjIxNGNhOTQyYWU0ZGI4ODMyZDdmNGIucG5n/auto/auto/85/notrim/f27cd2339d20dfeeda9d07ccf7f9f4b9.webp",
+    "raridade": "Covert",
+    "caixa_de_drop": "Shattered Web Case"
+  },
+  {
+    "id": "Awp_8",
+    "nome": "Hyper Beast",
+    "imagem_url": "https://cdn.csgoskins.gg/public/uih/items/aHR0cHM6Ly9jZG4uY3Nnb3NraW5zLmdnL3B1YmxpYy9pbWFnZXMvYnVja2V0cy9lY29uL2RlZmF1bHRfZ2VuZXJhdGVkL3dlYXBvbl9hd3BfY3VfYXdwX2h5cGVyX2JlYXN0X2xpZ2h0Ljk1YWRjNTkyNTc5ZTJkYjNlMmZjNzU4MDkxZjU0MGM4ZWY2NGY1ZTYucG5n/auto/auto/85/notrim/89acc67d70a37ad44210b6ac243ed05f.webp",
+    "raridade": "Covert",
+    "caixa_de_drop": "Falchion Case"
+  },
+  {
+    "id": "Awp_9",
+    "nome": "Redline",
+    "imagem_url": "https://cdn.csgoskins.gg/public/uih/items/aHR0cHM6Ly9jZG4uY3Nnb3NraW5zLmdnL3B1YmxpYy9pbWFnZXMvYnVja2V0cy9lY29uL2RlZmF1bHRfZ2VuZXJhdGVkL3dlYXBvbl9hd3BfY3VfYXdwX2NvYnJhX2xpZ2h0LjFhZDNlOWE4MzEzMjMxNmQzY2JmNWM3ODNmM2Q3NTAzMTkyN2Q1YTkucG5n/auto/auto/85/notrim/1c750550e401697b9206d9fb329cb4ce.webp",
+    "raridade": "Classified",
+    "caixa_de_drop": "Winter Offensive Weapon Case"
+  },
+  {
+    "id": "Awp_10",
+    "nome": "Sun in Leo",
+    "imagem_url": "https://cdn.csgoskins.gg/public/uih/items/aHR0cHM6Ly9jZG4uY3Nnb3NraW5zLmdnL3B1YmxpYy9pbWFnZXMvYnVja2V0cy9lY29uL2RlZmF1bHRfZ2VuZXJhdGVkL3dlYXBvbl9hd3BfaHlfem9kaWFjMl9saWdodC5kYjc1NjcyN2ViOGUxODc3MGZlNjUzNmI0YmFhOTQzZjA1MjVjZTc0LnBuZw--/auto/auto/85/notrim/078704770762d35f7e65ccec44b9a613.webp",
+    "raridade": "Industrial Grade",
+    "caixa_de_drop": "The Gods and Monsters Collection"
+  },
+  {
+    "id": "Awp_11",
+    "nome": "Black Nile",
+    "imagem_url": "https://cdn.csgoskins.gg/public/uih/items/aHR0cHM6Ly9jZG4uY3Nnb3NraW5zLmdnL3B1YmxpYy9pbWFnZXMvYnVja2V0cy9lY29uL2RlZmF1bHRfZ2VuZXJhdGVkL3dlYXBvbl9hd3BfZ3NfYXdwX3N0cm9uZV9saWdodC5jMzEyNDllNTc5OWEyZGQyYjljNjEzNGI5OTUxZGI5ZDQxNzU0MmJiLnBuZw--/auto/auto/85/notrim/8d08066c0ab8b84f7dc43cd235c2cbf1.webp",
+    "raridade": "Mil-Spec Grade",
+    "caixa_de_drop": "The Anubis Collection"
+  },
+  {
+    "id": "Awp_12",
+    "nome": "BOOM",
+    "imagem_url": "https://cdn.csgoskins.gg/public/uih/items/aHR0cHM6Ly9jZG4uY3Nnb3NraW5zLmdnL3B1YmxpYy9pbWFnZXMvYnVja2V0cy9lY29uL2RlZmF1bHRfZ2VuZXJhdGVkL3dlYXBvbl9hd3BfaHlfYmxhbV9zaW1wbGVfbGlnaHQuNTdiMjE5ZGMwNTMzM2U0N2ZiYjZlYjQxYWI1NTg1YjA4YTkzNjI0Yi5wbmc-/auto/auto/85/notrim/709877f72a5a961dc5142d11bfb0d7c1.webp",
+    "raridade": "Classified",
+    "caixa_de_drop": "eSports 2013 Case"
+  },
+  {
+    "id": "Awp_13",
+    "nome": "Pink DDPAT",
+    "imagem_url": "https://cdn.csgoskins.gg/public/uih/items/aHR0cHM6Ly9jZG4uY3Nnb3NraW5zLmdnL3B1YmxpYy9pbWFnZXMvYnVja2V0cy9lY29uL2RlZmF1bHRfZ2VuZXJhdGVkL3dlYXBvbl9hd3BfaHlfZGRwYXRfcGlua19saWdodC4wMzQyN2ZjZjRlMTFlNjE4ZDhmNzIxNGVjMDNlNzBiMGZjZDUzYzdiLnBuZw--/auto/auto/85/notrim/c0b4cb008f5c0a794b9ffc538bc9ba2c.webp",
+    "raridade": "Restricted",
+    "caixa_de_drop": "The Overpass Collection"
+  },
+  {
+    "id": "Awp_14",
+    "nome": "Lightning Strike",
+    "imagem_url": "https://cdn.csgoskins.gg/public/uih/items/aHR0cHM6Ly9jZG4uY3Nnb3NraW5zLmdnL3B1YmxpYy9pbWFnZXMvYnVja2V0cy9lY29uL2RlZmF1bHRfZ2VuZXJhdGVkL3dlYXBvbl9hd3BfYW1fbGlnaHRuaW5nX2F3cF9saWdodC5lZjU0ODcxOTU5YjY1NjE0MWIyNDY5MTI1NmRiYjFkNTQ5YjFlZmJhLnBuZw--/auto/auto/85/notrim/12c1e08907cf2fb660228a4ad6b33c80.webp",
+    "raridade": "Covert",
+    "caixa_de_drop": "CS:GO Weapon Case"
+  },
+  {
+    "id": "Awp_15",
+    "nome": "Desert Hydra",
+    "imagem_url": "https://cdn.csgoskins.gg/public/uih/items/aHR0cHM6Ly9jZG4uY3Nnb3NraW5zLmdnL3B1YmxpYy9pbWFnZXMvYnVja2V0cy9lY29uL2RlZmF1bHRfZ2VuZXJhdGVkL3dlYXBvbl9hd3BfZ3NfYXdwX2h5ZHJhX2xpZ2h0LjhmZDRkYjU0YWQ5MjU5MTA5NzM5MjFlYjAzZDQwYjVjZWMxOTZiODAucG5n/auto/auto/85/notrim/997c00782a5d9296caa587b0264a4255.webp",
+    "raridade": "Covert",
+    "caixa_de_drop": "The 2021 Mirage Collection"
+  },
+  {
+    "id": "Awp_16",
+    "nome": "Fade",
+    "imagem_url": "https://cdn.csgoskins.gg/public/uih/items/aHR0cHM6Ly9jZG4uY3Nnb3NraW5zLmdnL3B1YmxpYy9pbWFnZXMvYnVja2V0cy9lY29uL2RlZmF1bHRfZ2VuZXJhdGVkL3dlYXBvbl9hd3BfYWFfYXdwX2ZhZGVfbGlnaHQuMWNkMzU2MTc5Y2EwNDNkODlmNzEzNjNkODViNTgwMmY5YWRmY2VlMS5wbmc-/auto/auto/85/notrim/c2b9200f81d943e886dd80bb4e64b774.webp",
+    "raridade": "Covert",
+    "caixa_de_drop": "The Control Collection"
+  },
+  {
+    "id": "Awp_17",
+    "nome": "Dragon Lore",
+    "imagem_url": "https://cdn.csgoskins.gg/public/uih/items/aHR0cHM6Ly9jZG4uY3Nnb3NraW5zLmdnL3B1YmxpYy9pbWFnZXMvYnVja2V0cy9lY29uL2RlZmF1bHRfZ2VuZXJhdGVkL3dlYXBvbl9hd3BfY3VfbWVkaWV2YWxfZHJhZ29uX2F3cF9saWdodC5kMDg3ZTFmZGMwNjkzMjE2Y2RhNzk2NDk0MTY3YmFlOTlmZWQ3ZmJkLnBuZw--/auto/auto/85/notrim/ae0db4407c0b01ff58570a964f7e3c3d.webp",
+    "raridade": "Covert",
+    "caixa_de_drop": "The Cobblestone Collection"
+  },
+  {
+    "id": "Awp_18",
+    "nome": "Medusa",
+    "imagem_url": "https://cdn.csgoskins.gg/public/uih/items/aHR0cHM6Ly9jZG4uY3Nnb3NraW5zLmdnL3B1YmxpYy9pbWFnZXMvYnVja2V0cy9lY29uL2RlZmF1bHRfZ2VuZXJhdGVkL3dlYXBvbl9hd3BfY3VfbWVkdXNhX2F3cF9saWdodC5iYjgzNDQ5ZjRkOTllNzA3N2NmOGNhY2YyMDI2NGFiOTRkZDk0NWFkLnBuZw--/auto/auto/85/notrim/ab90912da3a8f41da1168fb8f5b66330.webp",
+    "raridade": "Covert",
+    "caixa_de_drop": "The Gods and Monsters Collection"
+  },
+  {
+    "id": "Awp_19",
+    "nome": "The Prince",
+    "imagem_url": "https://cdn.csgoskins.gg/public/uih/items/aHR0cHM6Ly9jZG4uY3Nnb3NraW5zLmdnL3B1YmxpYy9pbWFnZXMvYnVja2V0cy9lY29uL2RlZmF1bHRfZ2VuZXJhdGVkL3dlYXBvbl9hd3BfZ3NfYXdwX2VuYW1lbF9saWdodC45M2RjYTZmYmI2Mzg2Njk0MjMzZjU1MjhhMmI4NjMyMWI0ZDc5ODU2LnBuZw--/auto/auto/85/notrim/9c6654ce1be20ad5a472d94330b7ddf5.webp",
+    "raridade": "Covert",
+    "caixa_de_drop": "The Canals Collection"
+  },
+  {
+    "id": "Awp_20",
+    "nome": "Gungnir",
+    "imagem_url": "https://cdn.csgoskins.gg/public/uih/items/aHR0cHM6Ly9jZG4uY3Nnb3NraW5zLmdnL3B1YmxpYy9pbWFnZXMvYnVja2V0cy9lY29uL2RlZmF1bHRfZ2VuZXJhdGVkL3dlYXBvbl9hd3BfZ3NfYXdwX2d1bmduaXJfbGlnaHQuM2JjNzc5ODllYzFmYzdjNmY0YjA5ZmY5YjMxMzUzMDc5NGY5MjMwOS5wbmc-/auto/auto/85/notrim/b53f503ad5814e87112c646c693e8ccd.webp",
+    "raridade": "Covert",
+    "caixa_de_drop": "The Norse Collection"
+  }
+]
